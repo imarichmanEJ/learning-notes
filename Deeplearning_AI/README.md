@@ -16,7 +16,7 @@
     - From a Single-Agent to a Multi-Agent Architecture
     - Processing Invoices using a Multi-Agent System
 - 상태: 완료
-- 요약:
+- 요약: ./mcp_server.md
  
    
 
@@ -29,4 +29,4 @@
     - Creating Custom Skills
     - Skills with Claude API / Claude Code / Claude Agent SDK
 - 상태: 완료
-- 요약:
+- 요약: ./agent_skills.md
