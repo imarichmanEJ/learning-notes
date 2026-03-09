@@ -6,6 +6,9 @@ LLM이 외부 리소스와 연결하는 **표준 통신 규격**
 
 MCP 이전에는 각 리소스마다 연결 코드를 개별 구현해야 했지만, MCP 표준으로 MCP Client 하나로 여러 외부 리소스에 동일한 방식으로 연결한다.
 
+<img src="./images/with_wo_mcp.png" width="600">
+
+
 ```
 Claude (Host)
 └── MCP Client
@@ -20,13 +23,10 @@ Claude (Host)
 | **MCP Client** | Host 안에 내장. MCP Server와 통신 담당 |
 | **MCP Server** | 외부 리소스별로 존재. 직접 만들거나 가져다 씀 |
 | **External Resource** | 실제 DB, API 등. MCP를 모름 |
-
-
-
-
-
-
 ---
+
+<img src="./images/mcp_how_works.png" width="600">
+
 
 ## 2. MCP Server
 
