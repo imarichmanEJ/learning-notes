@@ -4,7 +4,7 @@
     - Agent Tool Execution Environments
     - Build Full-stack Coding Agent with Tool execution
 - 상태: 완료
-- 요약: [Coding Agent](./coding_Agent.md)
+- 요약: [Coding Agent](./coding_agent.md)
 
 
 ### Course2. Build AI Apps with MCP Servers: Working with Box Files
