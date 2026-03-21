@@ -1,5 +1,11 @@
 # Build full-stack Coding Agent
 
+## demo
+<div align="left">
+  <video src="https://github.com/user-attachments/assets/466eb72b-9001-44a9-9267-48608d3cf6b4" width="300" controls>
+  </video>
+</div>
+
 ## 1. Coding Agent
 
 목적: LLM이 사용자 쿼리에 따라 스스로 코드실행/파일읽기/파일생성 등 도구를 호출하여 작업을 수행하는 에이전트 생성
