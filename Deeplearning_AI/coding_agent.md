@@ -1,4 +1,4 @@
-# Coding Agent 학습 정리
+# Build full-stack Coding Agent
 
 ## 1. Coding Agent
 
